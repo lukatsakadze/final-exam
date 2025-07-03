@@ -180,6 +180,7 @@ project/
 
 ## Notes
 
+
 - The program uses hardcoded data for demonstration purposes
 - Error handling implementation is required for production use
 - Screenshots demonstrating error scenarios need to be added to complete the documentation
