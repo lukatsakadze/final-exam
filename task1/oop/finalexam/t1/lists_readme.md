@@ -20,6 +20,7 @@ The program performs the following operations:
 
 ## Algorithm Steps
 
+
 ### Step 1: Create Combined List (List C)
 - Uses mapping indices `[5, 3, 8, 4, 7, 2, 6, 9, 11, 10]`
 - For each element in `listA`, combines it with corresponding string from `listB`
@@ -184,3 +185,4 @@ project/
 - The program uses hardcoded data for demonstration purposes
 - Error handling implementation is required for production use
 - Screenshots demonstrating error scenarios need to be added to complete the documentation
+![Screenshot 2025-07-03 113741](https://github.com/user-attachments/assets/caea9f19-011c-4af3-94b0-3d6e0c0b2576)
